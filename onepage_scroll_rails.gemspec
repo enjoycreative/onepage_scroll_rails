@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "onepage_scroll_rails"
   spec.version       = OnepageScrollRails::VERSION
   spec.authors       = ["Alexander Kiseliev"]
-  spec.email         = ["dev@enjoycreative.ru"]
+  spec.email         = ["dev@redrocks.pro"]
 
   spec.summary       = "onepage-scroll for rails"
   spec.description   = "onepage-scroll for rails"
-  spec.homepage      = "https://github.com/enjoycreative/onepage_scroll_rails"
+  spec.homepage      = "https://github.com/red-rocks/onepage_scroll_rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
