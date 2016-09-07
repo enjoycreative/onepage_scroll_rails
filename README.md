@@ -47,7 +47,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/enjoycreative/onepage_scroll_rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/red-rocks/onepage_scroll_rails.
 
 
 ## License
